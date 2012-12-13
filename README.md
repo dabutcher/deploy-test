@@ -12,3 +12,6 @@ Found out that line break can be applied with two or more spaces at end of line
 I added that to my Steps list to see if the are now on different lines.  
 
 Added a prod branch to test only pushing changes to production host when prod branch is updated.  
+
+Lets update master merge to prod and push --all
+
